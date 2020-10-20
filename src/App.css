@@ -26,3 +26,23 @@
   height:500px;
   
 }
+.mainvisual {
+  width: 100vw;
+  height: 200px;
+  
+}
+.profile {
+  width: 100vw;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+.profileitems {
+  text-align: center;
+  
+}
+h3 {
+  
+}
